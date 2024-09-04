@@ -1,0 +1,43 @@
+body {
+background: black;
+color: aliceblue;
+margin: 0.5px;
+margin-bottom: 0.5px;
+}
+header {
+    border-bottom:solid 0.5px #6F9B3C;
+    margin-bottom: 0.2px;
+    margin-top: 0.2px;
+
+}
+h3{
+    background: #A3B18A;
+    color: "green";
+    font-family: "Nerko One", cursive;}
+h1 {
+    color:rgb(247, 184, 50);
+}
+section {
+    background: #264E49;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+margin-right: 43px;
+margin-left: 7px;
+}
+.cabeçalho{
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+h2{
+    font-family: "Nerko One", cursive;
+}
+.maisvideos img{
+    opacity: 0.5;
+}
+.maisvideos img:hover {
+    opacity: 2.0;
+}
+
